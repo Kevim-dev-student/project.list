@@ -69,14 +69,14 @@ main .cartao-pokemon:hover {
 main .cartao-pokemon .informacoes {
     display: flex;
     justify-content: space-between;
-    border-radius: 90px;
+    border-radius: 70px;
 }
 
 main .cartao-pokemon .informacoes span {
     padding: 5px;
     text-transform: uppercase;
     font-size: 15px;
-    background-color: #f70e0e;
+    background-color: #939393;
     border-radius: 10px;
     border: 1px solid #030703;
     align-items: center;
@@ -121,8 +121,8 @@ main .cartao-pokemon .tipo {
 main .descricao {
     max-height: 80px;
     overflow-y: scroll;
-    font-size: 18px;
+    font-size: 15px;
     font-family: initial;
     padding-right: 10px;
-    color: #cf0b0b;
+    color: #484747;
 }
