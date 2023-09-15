@@ -103,7 +103,7 @@ main .cartao-pokemon .tipo {
 }
 
 .veneno {
-    background-color: #bb0ab8fb;
+    background-color: #ff11f7a4;
 }
 
 .fogo {
@@ -115,6 +115,33 @@ main .cartao-pokemon .tipo {
 }
 
 .inseto {
+    background-color: #a6b91a;
+}
+
+.psiquico {
+    background-color: #f322a3;
+}
+
+.fantasma {
+    background-color: darkcyan;
+}
+
+.luta {
+    background-color: blue;
+}
+
+.escuridao {
+    background-color: #484747;
+}
+.terra {
+    background-color: #adca4362;
+}
+
+.vento {
+    background-color: rgba(196, 224, 248, 0.538);
+}
+
+.eletrico {
     background-color: #a6b91a;
 }
 
