@@ -107,7 +107,7 @@ main .cartao-pokemon .tipo {
 }
 
 .fogo {
-    background-color: #ee8130;
+    background-color: #ff5107e6;
 }
 
 .agua {
@@ -137,12 +137,32 @@ main .cartao-pokemon .tipo {
     background-color: #adca4362;
 }
 
-.vento {
-    background-color: rgba(196, 224, 248, 0.538);
+.voador {
+    background-color: rgb(223, 223, 223);
 }
 
 .eletrico {
-    background-color: #a6b91a;
+    background-color: #ebe539;
+}
+
+.pedra {
+    background-color: #7d7c7c;
+}
+
+.dragao {
+    background-color: rgb(255, 155, 84);
+}
+
+.toxico {
+    background-color: darkorchid;
+}
+
+.normal {
+    background-color: tan;
+}
+
+.fada {
+    background-color: magenta;
 }
 
 main .descricao {
@@ -151,5 +171,16 @@ main .descricao {
     font-size: 15px;
     font-family: initial;
     padding-right: 10px;
-    color: #484747;
+    color: #484747
 }
+
+header .pag-dois {
+    width: 48px;
+    height: 45px;
+}
+
+header .pag-inicial {
+    width: 48px;
+    height: 45px;
+}
+
